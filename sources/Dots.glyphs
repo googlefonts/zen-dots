@@ -13,7 +13,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Acircumflex A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Dots Project Authors (https://github.com/googlefonts/zen-dots)";
+copyright = "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)";
 customParameters = (
 {
 name = glyphOrder;
@@ -151,7 +151,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2020-03-17 08:19:03 +0000";
+date = "2021-02-12 05:06:22 +0000";
 designer = "Yoshimichi Ohira";
 designerURL = "https://www.zenfont.jp/";
 disablesNiceNames = 1;
