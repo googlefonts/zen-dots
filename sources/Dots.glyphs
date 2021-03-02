@@ -4,7 +4,8 @@ DisplayStrings = (
 "KH¡pH¿H",
 "notH/T.ss01 O/space/nbspace",
 "£",
-"ÁÂÄÀÅÃÆÇÐÉÊËÈÍÎÏÌÑÓÔÖÒØÕ/OE ÞÚÛÜÙÝ/G.ss01/M.ss01/O.ss01/T.ss01/W.ss01"
+"ÁÂÄÀÅÃÆÇÐÉÊËÈÍÎÏÌÑÓÔÖÒØÕ/OE ÞÚÛÜÙÝ/G.ss01/M.ss01/O.ss01/T.ss01/W.ss01",
+"!@MDB"
 );
 classes = (
 {
@@ -3315,7 +3316,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2021-02-12 00:56:08 +0000";
+lastChange = "2021-03-02 15:18:19 +0000";
 layers = (
 {
 anchors = (
@@ -3438,7 +3439,7 @@ nodes = (
 closed = 1;
 nodes = (
 "230 627 LINE",
-"187 586 LINE",
+"187 587 LINE",
 "653 587 LINE SMOOTH",
 "713 587 OFFCURVE",
 "744 562 OFFCURVE",
@@ -3446,7 +3447,7 @@ nodes = (
 "744 456 OFFCURVE",
 "713 427 OFFCURVE",
 "653 427 CURVE SMOOTH",
-"187 428 LINE",
+"187 427 LINE",
 "230 384 LINE"
 );
 }
@@ -3626,7 +3627,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2021-02-12 00:56:32 +0000";
+lastChange = "2021-03-02 15:18:40 +0000";
 layers = (
 {
 anchors = (
@@ -3706,7 +3707,7 @@ nodes = (
 "766 716 OFFCURVE",
 "508 716 CURVE SMOOTH",
 "188 715 LINE",
-"199 585 LINE",
+"199 586 LINE",
 "497 586 LINE SMOOTH",
 "665 586 OFFCURVE",
 "753 516 OFFCURVE",
