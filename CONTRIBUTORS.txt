@@ -9,5 +9,6 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Yoshimichi Ohira <email>
+Yoshimichi Ohira <info@zenfont.jp>
 Katja Schimmel <info@katjaschimmel.de>
+Neil Summerour <support@positype.com>
