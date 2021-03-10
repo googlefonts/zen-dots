@@ -1,3 +1,7 @@
+Zen Dots is one of the three Latin fonts designed by Yoshimichi Ohira as part of the vast collection of Zen Fonts Foundry.
+
+Dots was designed with a futuristic vision. This font is used to clarify different areas in science fiction films. The font information can be used as markers to identify specific locations and area details.
+
 ## Building the Fonts
 
 The font is built using fontmake and gftools post processing script. Tools are all python based, so it must be previously installed.
