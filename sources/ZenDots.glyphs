@@ -159,7 +159,7 @@ date = "2021-02-12 05:06:22 +0000";
 designer = "Yoshimichi Ohira";
 designerURL = "https://www.zenfont.jp/";
 disablesNiceNames = 1;
-familyName = Dots;
+familyName = "Zen Dots";
 featurePrefixes = (
 {
 automatic = 1;
@@ -281,6 +281,7 @@ verticalStems = (
 150,
 163
 );
+weightValue = 400;
 xHeight = 515;
 }
 );
@@ -17438,24 +17439,7 @@ width = 744;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Dots-Regular";
-},
-{
-name = postscriptFullName;
-value = "Dots Regular";
-},
-{
-name = styleMapFamilyName;
-value = Dots;
-},
-{
-name = weightClass;
-value = 400;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 master01 = 1;
 };
