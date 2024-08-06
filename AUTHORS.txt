@@ -6,3 +6,8 @@
 # Name or Organization <email address>
 
 Yoshimichi Ohira <info@zenfont.jp>
+Google LLC
+Katja Schimmel
+Neil Summerour
+Aaron Bell
+Rosalie Wagner
